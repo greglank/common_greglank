@@ -1,0 +1,11 @@
+[project]
+name = "common_greglank"
+version = "0.1.0"
+description = "Reusable utilities by greglank"
+authors = [{ name = "greglank", email = "" }]
+readme = "README.md"
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
