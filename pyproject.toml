@@ -2,7 +2,7 @@
 name = "common_greglank"
 version = "0.1.0"
 description = "Reusable utilities by greglank"
-authors = [{ name = "greglank", email = "" }]
+authors = [{ name = "greglank", email = "51748208+greglank@users.noreply.github.com" }]
 readme = "README.md"
 dependencies = []
 
